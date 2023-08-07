@@ -1,0 +1,45 @@
+body {
+    background-color: rgb(32, 35, 36);
+    color: white;
+}
+
+#page-title {
+    position: absolute;
+
+    background-color: rgb(16, 16, 18);
+    left: 0px;
+    top: 0px;
+    width: 100%;
+    height: 5%
+}
+
+
+#action-bar {
+    position: absolute;
+    left: 50%;
+    top: 6%;
+
+    transform: translate(-50%);
+    text-align: center;
+
+}
+
+#action-bar-href {
+    color: white;
+    text-decoration: none;
+    
+}
+
+#action-bar-href:hover {
+    color: darkgrey;
+    text-decoration: none;
+    
+}
+
+#pfp-img {
+    position: absolute;
+    left: 97%;
+    top: 0;
+    width: 3%;
+    height: auto;
+}

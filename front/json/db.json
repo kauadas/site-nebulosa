@@ -1,0 +1,20 @@
+{
+    
+    "halliday":{
+        "name": "halliday",
+        "autor": "david halliday",
+        "image": "https://cdn.discordapp.com/attachments/1061342863755059220/1137540042282246275/4.png",
+        "download": "https://drive.google.com/drive/folders/1VIRiC9nD5wKXla1JJR3VHM-QSeZmC5d8?usp=drive_link",
+        "pos": [15,0],
+        "rodapeid": "1"
+
+    },
+    "o_mundo_de_sophia":{
+        "name": "o mundo de sophia",
+        "autor": "Jostein Gaarder",
+        "image": "https://m.media-amazon.com/images/I/91U9VjiT-xL._AC_UF1000,1000_QL80_.jpg",
+        "download": "https://drive.google.com/file/d/1N7YmrA91z8FYG1ldwm6dRfjGCU8aDwxI/view?usp=drive_link",
+        "pos": [0,0],
+        "rodapeid": "1"
+}
+}
