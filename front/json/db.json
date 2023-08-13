@@ -1,20 +1,710 @@
 {
-    
-    "halliday":{
-        "name": "halliday",
-        "autor": "david halliday",
-        "image": "https://cdn.discordapp.com/attachments/1061342863755059220/1137540042282246275/4.png",
-        "download": "https://drive.google.com/drive/folders/1VIRiC9nD5wKXla1JJR3VHM-QSeZmC5d8?usp=drive_link",
-        "pos": [15,0],
-        "rodapeid": "1"
-
+    "Novíssima gramática da língua portuguesa - Cegalla_.pdf": {
+        "name": "Novíssima gramática da língua portuguesa ",
+        "author": " Cegalla ",
+        "download": "https://drive.google.com/file/d/1-6ylHCXmViA5IB3j6Y4lGStWQthNEt-_/view?usp=drivesdk",
+        "parents": [
+            "1V7lXxKblnZlmXxXGaQFt1v2x6QuzQg83"
+        ]
     },
-    "o_mundo_de_sophia":{
-        "name": "o mundo de sophia",
-        "autor": "Jostein Gaarder",
-        "image": "https://m.media-amazon.com/images/I/91U9VjiT-xL._AC_UF1000,1000_QL80_.jpg",
-        "download": "https://drive.google.com/file/d/1N7YmrA91z8FYG1ldwm6dRfjGCU8aDwxI/view?usp=drive_link",
-        "pos": [0,0],
-        "rodapeid": "1"
-}
+    "pai-rico-pai-pobre.pdf": {
+        "name": "pai",
+        "author": "rico",
+        "download": "https://drive.google.com/file/d/1fMtpK2dNyJDNJ04WhXW_HZeK08JmJp-Z/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/_jas-443ZNNmwsyORKrfgNWqrqZIcmDQRFVTQmtEx8dSJYBbDlsdPH2kUxsZiKfvCxeP_CQrwe5NB_s=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Suicidas-Raphael-Montes.pdf": {
+        "name": "Suicidas",
+        "author": "Raphael",
+        "download": "https://drive.google.com/file/d/1ueI7nlLLaeqM1YzUzSJxnRnV76OI-qzQ/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/Gt_xi3i_y0XIZb1xz8A8ZShO4HFvVk1aNWA6iMR3SSi1eCvlxwpC595OAlfUWLY2AUahL_0ldrf72JM=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Guia dos Hábitos Inteligentes.pdf": {
+        "name": "Guia dos Hábitos Inteligentes",
+        "download": "https://drive.google.com/file/d/1tYeh-DEZjI5GsgIJy8Dr_4HuOPF6Ylp7/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/F07G3y0z2vbG2NXxCxrSWq8hGknpEoRPPcwfXq7bZe0jqgMAXeeWS_BQ4x3SLYfCd0jo_HvGS0hZUQ0=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "50 Tons para o sucesso - J. Edington.pdf": {
+        "name": "50 Tons para o sucesso ",
+        "author": " J. Edington",
+        "download": "https://drive.google.com/file/d/1hncD220FJDUUJh5wLlEQGG160JSys09b/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/V9aTRM9GGj0OburwAl1pqroPLQu13mhekgmRhkQs3WRUX3FWDOSN9JiQqG9cZm7Ahmn0jSmIW2vavfI=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Seja-Foda.pdf": {
+        "name": "Seja",
+        "author": "Foda",
+        "download": "https://drive.google.com/file/d/1_A_3bs7vmP3ChFIv6wCtuDOVsbItzZjC/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/3V_5E0t87b17ETcOfEN6WqPHB-sW9gzcZ87uvXhRKy0CoPLEiZlImn6Xp1tUCxjmtkhyTLXlh3WDIz8=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O Poder do Hábito.pdf": {
+        "name": "O Poder do Hábito",
+        "download": "https://drive.google.com/file/d/1zML2Hq0ZFJz7GePeGZ_Wo-x6t5JXl-fk/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/tlLU4zeisLrwYZasMpfVsRTTUJbCDf7LUvcYAANcEZxKDvvCxWX1NHdTnOU8AuIf_hJwUueLxsWnqHs=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Hábitos-Atômicos.pdf": {
+        "name": "Hábitos",
+        "author": "Atômicos",
+        "download": "https://drive.google.com/file/d/1233DZWpeSOz3PMarVr_eHoD5Q7Enm_GI/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/BsUJkExVdJKEG-sdPjS-sG8ORXFPASxj0RXZRsrJ3q2-bog_bT1_OXMCznaIyRtD31k8l5Nf1FwCWK0=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "o algebrista.pdf": {
+        "name": "o algebrista",
+        "download": "https://drive.google.com/file/d/116OarZZa_24tWyxGLqwFFsFxsw23MmAG/view?usp=drivesdk",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Como Fazer Amigos e Influenciar Pessoas.- Dale Carnegie (1).pdf": {
+        "name": "Como Fazer Amigos e Influenciar Pessoas.",
+        "author": " Dale Carnegie (1)",
+        "download": "https://drive.google.com/file/d/1kdPXZkpdyjLH6mAmOEPlJ7OVDGj8OwP3/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/sRyPykPsSE-HCIRytbESjwX3K88zGCPTPF1jKIBpbSECuc7r-4OQaftoDt0bRIu6JFKutDm6GU2LfTQ=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A Sutil Arte de Ligar o Foda-se - Mark Manson.pdf": {
+        "name": "A Sutil Arte de Ligar o Foda",
+        "author": "se ",
+        "download": "https://drive.google.com/file/d/1_SLvJAAz4DRo2Xnyqzy5HBxdlnWqYRKg/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/A1qCLBRh6VsKJHK01dJKZPb1usXrVgvtho6fx38X6bdgfPF0haeDP14akhE0VcDCP6w25liNmXMLaIk=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_Mundo_de_Sofia_-_Jostein_Gaarder_2.pdf": {
+        "name": "O Mundo de Sofia ",
+        "author": " Jostein Gaarder 2",
+        "download": "https://drive.google.com/file/d/1N7YmrA91z8FYG1ldwm6dRfjGCU8aDwxI/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/DYcJ2Jtue5ev2LRT1Dl_bBaQo2yMaVh38Cdehuk1_m9vakZpioKsbO90yC3OtnOMEUBRZlN7nPIBiJs=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "A_logica_do_Cisne_Negro_Nassim_Nicholas_Taleb_Taleb_Nassim_Nicholas_z-lib.org.pdf": {
+        "name": "A logica do Cisne Negro Nassim Nicholas Taleb Taleb Nassim Nicholas z",
+        "author": "lib.org",
+        "download": "https://drive.google.com/file/d/1sp5OQTprmDHXFRfPLYDps65blcO8q8Pq/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/g-Boj7zeXIy6UWJnvg4zkdCx61dYA2T4_koVIjzObZZjWSWlr4tWRrmVctbE3ztQQC1kunq6CxuTr9I=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Guia_Politicamente_Incorreto_do_Isla_e_das_Cruzadas_em_portugues.pdf": {
+        "name": "Guia Politicamente Incorreto do Isla e das Cruzadas em portugues",
+        "download": "https://drive.google.com/file/d/1RT7UAn7foAppYnY2Y1tJf8JNsKUZCwHE/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/6jNC3OU0LRCLPz-fCkzweA6IB5CPvivVFHgh2pANFmxsPLkPHxmAV_pZVIwvxqITX08WQ-DWkdEeLSw=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Mirian_Goldenberg._A_arte_de_pesquisar_-_como_fazer_pesquisa_qualitativa_em_ciencias_sociais.pdf": {
+        "name": "Mirian Goldenberg. A arte de pesquisar ",
+        "author": " como fazer pesquisa qualitativa em ciencias sociais",
+        "download": "https://drive.google.com/file/d/1Uq7uXBcs0rgQW7uYcB3LUomNkAVxzIVe/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/qtSqySSLMm2Go-v5-Wdm8WTxSLg2CZAPCDHLVtk3nHtRf1XSt33GpxzgW5smTh4_0mA-LM734cL27h4=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Alda_Judith_Alves-Mazzotti_Fernando_Gewandsznajder_O_Metodo_nas_Ciencias_Naturais_e_Sociais_-_pesquisa_quantitativa_e_qualitativa_1999.pdf": {
+        "name": "Alda Judith Alves",
+        "author": "Mazzotti Fernando Gewandsznajder O Metodo nas Ciencias Naturais e Sociais ",
+        "download": "https://drive.google.com/file/d/1lzLa11jkc3c_rvIWL5k4vhl8QyFeJN-f/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/DJnwkDYa7CyqmiQmZQ-ATBPePE-iGn86qSlmQ9HT-rTSZAUsvIulonkfGpE0_XY9q6cIs1GkiXUK-Oc=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Robert_Stake_Pesquisa_Qualitativa_estudando_como_as_coisas_funcionam_2010.pdf": {
+        "name": "Robert Stake Pesquisa Qualitativa estudando como as coisas funcionam 2010",
+        "download": "https://drive.google.com/file/d/1ZLsJjISzJL7IYBrpnOQKSTOpMLr2INET/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/NOrGYriS7Drw9Vh09hPDqlYhrmj4OUqQpAHrhVYz-ZVZM0r0zMHh3sfbY2Tr1xcILri3zX5tdjD9xnw=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Odisseia_-_Homero.pdf": {
+        "name": "A Odisseia ",
+        "author": " Homero",
+        "download": "https://drive.google.com/file/d/13z3YCeE0ZAYV54YCKOpVGzljk7Ev9F9-/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/o0i4_JzyPQZunN4isyIUkgFkEipylhiOCXWjDbovBOIRK99JK5UVDFi-zZOaqdI1E5kpJxXAJlvzzwg=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Iliada_-_Homero.pdf": {
+        "name": "A Iliada ",
+        "author": " Homero",
+        "download": "https://drive.google.com/file/d/1b8QQGgJWgTlU43LrKGP0lOQfH68X5bUD/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/xiiaod3t6LPnrMj07t7uCTEthzJqswbzZlGcbtXqP4NhHKK0GaLhgm7X9Gsa-79Y7XAetGt5calgLjo=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Iliada_-_Homero (1).pdf": {
+        "name": "A Iliada ",
+        "author": " Homero (1)",
+        "download": "https://drive.google.com/file/d/1hSc2ORDs58HGzxlKHkZTmcuA8Z2Ug_K8/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/vjuSdZ9cf8VN6RrL3A8KS9lCW1_3lSFOg8hC5_2BisVjVLqD2YV6K8UizjatdqZJKeME1z84U6gfUw4=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "1-_A_Rainha_Vermelha_Victoria_Aveyard_Aveyard_Victoria_z-lib.org.pdf": {
+        "name": "1",
+        "author": " A Rainha Vermelha Victoria Aveyard Aveyard Victoria z",
+        "download": "https://drive.google.com/file/d/1OpJOkkJyNq5DSVxABMUd5A_DSWquf_LS/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/hJYbGYinVREpILKBax3bEyKEI7w1qIMSkMgtq5Kj1pmV-oWAHE8Hy3U39ih7X7K1nErWdGuw4XMuJhY=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "O_Jardim_das_Aflicoes_-_De_Epicuro_a_Ressurreicao_de_Cesar_Olavo_de_Carvalho_z-lib.org.pdf": {
+        "name": "O Jardim das Aflicoes ",
+        "author": " De Epicuro a Ressurreicao de Cesar Olavo de Carvalho z",
+        "download": "https://drive.google.com/file/d/1luhm-t7_04KhCvC-5Q98ELBtNy1LFLxV/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/3uvxVUo_BQQXt7R3maTBhMJMdYhc7yKjpJ40keDrhOjcFhFP5Tc6EVMt38IZDT8UZoEPHdSajiRONCg=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_logica_do_Cisne_Negro_Nassim_Nicholas_Taleb_Taleb_Nassim_Nicholas_z-lib.org (1).pdf": {
+        "name": "A logica do Cisne Negro Nassim Nicholas Taleb Taleb Nassim Nicholas z",
+        "author": "lib.org (1)",
+        "download": "https://drive.google.com/file/d/1l5rJCGjeye9sCvC70iLciaPgpXQVlGt1/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/PrzIqFEOjDY8SvBJhSGsdoIYD5ir4lTxY8QXl451wdE48O0BjbbGUjzudnUFZhwvAKZ6a_a5vtcZ37g=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Processo_Penal-1.pdf": {
+        "name": "Processo Penal",
+        "author": "1",
+        "download": "https://drive.google.com/file/d/1O10eD6fizgpVEB8ZDCj5xcdcn8-FjhSk/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/vGxlVhYr7G9I_fBHdQfaZxS0BYNjI0O8GaBaZOwrs-3eXyLssIbS4pGLf4cq2qDsNnxZIFbFGdhVeQE=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Direito_Empresarial-2.pdf": {
+        "name": "Direito Empresarial",
+        "author": "2",
+        "download": "https://drive.google.com/file/d/1XgGW5juayBd-w89_hafN42cgcypIaVwI/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/f0ptPi6ZYLiJOArNT70gPAfeWbxl9sIBKQOvF5BqVM2g8dkQuPoogYHkGfE3hUWG2AYjLyklypluAgY=s220",
+        "parents": [
+            "1S0JuB6e0gadkTk7sHTeTiYt9rhr7nSRQ"
+        ]
+    },
+    "Direito_Ambiental-1.pdf": {
+        "name": "Direito Ambiental",
+        "author": "1",
+        "download": "https://drive.google.com/file/d/15oPzv2qFWBLnZ8ASpO7b44EsKUQRQc-l/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/JA8QdHlnHzjj58Fi_ePaoc18R3_m4gNaALWxCubAWRoA7BB1vU-OpOAjnNNKsAYG_3GfUXoUnUf9YyM=s220",
+        "parents": [
+            "1S0JuB6e0gadkTk7sHTeTiYt9rhr7nSRQ"
+        ]
+    },
+    "Direito_Civil.pdf": {
+        "name": "Direito Civil",
+        "download": "https://drive.google.com/file/d/17fXMe7u0CIbq7MLWtuJsal2BXjQnhodq/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/H9Xpr2Lh2GMuiH2Y1zcjICvOJ0inJ0G0BrZhsk5V5jeGhnoP2Gay2WL6OcCBdZyU7RWOWM8tQfcZLMA=s220",
+        "parents": [
+            "1S0JuB6e0gadkTk7sHTeTiYt9rhr7nSRQ"
+        ]
+    },
+    "Direitos_Humanos.pdf": {
+        "name": "Direitos Humanos",
+        "download": "https://drive.google.com/file/d/1K7JO2y4ASxp_ht_DG6CSw4fFbILQuxip/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/dy2lpO1ToJD0fmPgIx9FZv5LTPNO8_Mgr7TZU3V0L0zoV7BlajlgHw7SgYiDBz_JRb1fv_x0ZIV-93k=s220",
+        "parents": [
+            "1S0JuB6e0gadkTk7sHTeTiYt9rhr7nSRQ"
+        ]
+    },
+    "Minha_Luta_Hitler.pdf": {
+        "name": "Minha Luta Hitler",
+        "download": "https://drive.google.com/file/d/1YwubeT-DXH4IEqeXS2f1siYm_mHvn9JZ/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/nhmK8niBQi_GHy9siR8mtdL7kTKHuYMz0yrpKjEtJNVJVFBFAeFgJSn8Rq4kJyDauaCjK-U--9gZTsE=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Sobre_a_liberdade_A_sujeicao_das_mulheres_-_John_Stuart_Mill.pdf": {
+        "name": "Sobre a liberdade A sujeicao das mulheres ",
+        "author": " John Stuart Mill",
+        "download": "https://drive.google.com/file/d/1eS0joRT7u9OP0TEkpRTVx5UK4lYdB63u/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/BuKXJWk92_lTERFTGuKZ--VFSQwA7QmIAItXlMwHThAnmZBhdAMfR7XEY0KS8HfLSK10RI9mFfDu-MU=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Amores_trens_e_outras_coisas_que_saem_dos_-_Jennifer_E._Smith.pdf": {
+        "name": "Amores trens e outras coisas que saem dos ",
+        "author": " Jennifer E. Smith",
+        "download": "https://drive.google.com/file/d/1FEa5A3ZteO_t3mFXdNLNsoOzYUPgoWK8/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/aMa-51SGLrHd5h8FU1tV2wJGh1XRf0C2rZVQxgv2jBODUBZ1a_2gdzPZ41UUYlTBVcpcvUjWpvXcOG4=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "XADREZ_VITORIOSO_-_FINAIS.pdf": {
+        "name": "XADREZ VITORIOSO ",
+        "author": " FINAIS",
+        "download": "https://drive.google.com/file/d/1FXpix7AAyRGxZm37OmnqUCvWBs-IHzDT/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/KWkCzydKYcPWXLGwMZWHc04GeJTcT0pvVRSyyPjP3b7vOGD3GCRvVUftXuFITPASC0rikOH0FPg8cvc=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "2._Manual_de_Xadrez_DFE_2018.pdf": {
+        "name": "2. Manual de Xadrez DFE 2018",
+        "download": "https://drive.google.com/file/d/13Yq-yRNaNOOieR7mfuZmfcxE3T2uMP1d/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/65d3U9Q8Q9kgcWY4i0ZbhbrF6V3iiLVRbZgXxDgVwdRHUZcbfsLYirrGX_rEFcUVBusvqylFrFrm2Ck=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Meditacoes_Marco_Aurelio.pdf": {
+        "name": "Meditacoes Marco Aurelio",
+        "download": "https://drive.google.com/file/d/1pwk91jeZbqawIcbW4phGS1SAV7_E2veK/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/GKBMJW5vLiz31B_KNd1efWMmv6rAdSugHx7v8HfAy3IGRYqE-a0dj0QEUiWdjbgndI0DKPXd8slPW0E=s220",
+        "parents": [
+            "1515nBODKSyJy6P7UFaEHQHzRJ0OaC-AQ"
+        ]
+    },
+    "O_Diario_de_Anne_Frank_Anne_Frank_FRANK_Anne_z-lib.org.pdf": {
+        "name": "O Diario de Anne Frank Anne Frank FRANK Anne z",
+        "author": "lib.org",
+        "download": "https://drive.google.com/file/d/1qka2zW-Ybopayc5kAqi_0baR3sQpecIV/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/i3LMYhPR9-hWrrCvDdPrgFwiX2fBHjNo47hWkHToWMxxPJgaCbJSYU94C3edZ78aLEHM4KXTyy6bZ3A=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Aristoteles_ETICA_A_NICOMACO.pdf": {
+        "name": "Aristoteles ETICA A NICOMACO",
+        "download": "https://drive.google.com/file/d/18oefVsgi7zFbeJ_ZwP-rYc-Pp_RxQHuk/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/yEUrN1bX9wdjVLouJeBjzssw8Dp2ZI32zorhtDg2J-8DJSaIb57ll5MssnhSY3hBVJYG7oHRKj7asP0=s220",
+        "parents": [
+            "1iJzCLEPgw_IQFpTSEx1J_Lc81fih8mID"
+        ]
+    },
+    "vdocuments.mx_101-dicas-de-xadrez.pdf": {
+        "name": "vdocuments.mx 101",
+        "author": "dicas",
+        "download": "https://drive.google.com/file/d/1ZpP_2cPr7Vzci8aNAYz0g4lgPbfdsECo/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/EnKhSE-ZvpPLIYlURloPr5aiBfPVkAQpFbyh25-xj3vKTwYguYD9uADsyF9bZBsFcNvL8tekMmkeuFc=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Livro_a_origem_das_especies_Charles_Darwin.pdf": {
+        "name": "Livro a origem das especies Charles Darwin",
+        "download": "https://drive.google.com/file/d/1_SP02KUCepRsQFecrnJL1nvBXaeMIMVd/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/AVI8HFZozPRBNtBL0TbNIteRJE7oP4V9nxCgSl1AKK87WhAT3ePnFEe5SU4sTzLsKuf-S2PJ4kXHd_E=s220",
+        "parents": [
+            "1011k5p8ZkBtvnCZepAsfoPTOulh5ZbpV"
+        ]
+    },
+    "Caius_Julio_Cesar_-_Bello_Gallico.pdf": {
+        "name": "Caius Julio Cesar ",
+        "author": " Bello Gallico",
+        "download": "https://drive.google.com/file/d/1_jqqZeMllYI1myzHRIf9u31c5ALmOOqh/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/ELMIUO4GzLYtPfW0sdzME6KYA0QziI1D9dkGr6MNKrerg7nfHOEw1_pQIYeZOBAWdVu2qPWfhFYaIqo=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Aristoteles_ETICA_A_NICOMACO (1).pdf": {
+        "name": "Aristoteles ETICA A NICOMACO (1)",
+        "download": "https://drive.google.com/file/d/1eDK0nCicgwl1_17RvalpwzQNy1czgyJr/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/UEtYIB3DwNI8UbrUjpfPvMsepGuISgwKMDhpWu1CKg9hxenNZH790jiR5oMGy_dsRJ6inSoEJ01uRIo=s220",
+        "parents": [
+            "1lHyQYtyK5ekgl4A9Fyz7TxLROFaQCcsj"
+        ]
+    },
+    "Fisica_Classica_Dinamica_Estatica_parte_faltante_Caio_Sergio_Calcada_Jose_Luiz_Sampaio_z-lib.org.pdf": {
+        "name": "Fisica Classica Dinamica Estatica parte faltante Caio Sergio Calcada Jose Luiz Sampaio z",
+        "author": "lib.org",
+        "download": "https://drive.google.com/file/d/1VxeSU-H9mNIfeNNnEW4ASbPaySbgT5hL/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/gRlPINGWfjLknH6XVgvm--zlY7QlS12JmCfHhDv_oc_YLFaAAyvtWKHagwABc1z2OY2CRUv5znKQQvo=s220",
+        "parents": [
+            "1fYV1yACG7ACldeUZyaRU8Ep3OhWSGO6S"
+        ]
+    },
+    "O_Diario_de_Anne_Frank_Anne_Frank_FRANK_Anne_z-lib.org (1).pdf": {
+        "name": "O Diario de Anne Frank Anne Frank FRANK Anne z",
+        "author": "lib.org (1)",
+        "download": "https://drive.google.com/file/d/1OM2gJYUnjDUD89Col7-uuTePccwoPYKI/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/P3cTWzUZCNQcXttbqmhYYQW5nTPVA5ALZRuM1Uuvk-MR0fW-rQUjLk6vc8L6GL-fHahLgF0mYNv7gto=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "BIOGRAFIA_DO_CHE_GUEVARA.pdf": {
+        "name": "BIOGRAFIA DO CHE GUEVARA",
+        "download": "https://drive.google.com/file/d/1IhlVwR8zDcQU0TUcnhjnKJSG0ipIi5wP/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/qsTjL9QC8gKZb-hCWZ7Dnl3iYziXlxiwPkNp0oacjHwqLwqD3H_zZLie6ei_KQavIWN8fKzRXhgVA6Q=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Riqueza_das_Nacoes_-_Adam_Smith.pdf": {
+        "name": "A Riqueza das Nacoes ",
+        "author": " Adam Smith",
+        "download": "https://drive.google.com/file/d/1MBxVlJE8A29Oml2LYQspDhwlo3rPz6Yp/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/Z9w2X0bspp1VrXdDUH2PPHN0PoOFw8vBSg4xOgZX9WgXN6lXxDoKtUTpfQd4pRGiLh3nmCf9UnDv-Ms=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Pandemias_a_Humanidade_Em_Risco_-_Stefan_Cunha_Ujvari.pdf": {
+        "name": "Pandemias a Humanidade Em Risco ",
+        "author": " Stefan Cunha Ujvari",
+        "download": "https://drive.google.com/file/d/1fUYZNC9_Gbg0oXxS3VK7YIv17wJ9ax2W/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/inANmWvI3-1C1UaMtsnmNQq0k-_BX2ETWF7bwHdHLVsCxghEJ9RlGuqSiTuC-a-P4RUNCzpqX5jHM1U=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Harry_Potter_e_o_Prisioneiro_de_Azkaban_by_Rowling_J._K._z-lib.org.epub (1).pdf": {
+        "name": "Harry Potter e o Prisioneiro de Azkaban by Rowling J. K. z",
+        "author": "lib.org.epub (1)",
+        "download": "https://drive.google.com/file/d/1jv_69f7fgAmx7_2UOJyrSFUM0VixkMtD/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/xyTj7zc4sdFLwneEnKmHiwv_NfS11ZlAnZnoXm48AJOY3jPKy9NlewNoYAKH3VHWGJBikURdqz9ekdA=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "Harry_Potter_e_a_Pedra_Filosofal_by_J.K._Rowling_Rowling_J.K._z-lib.org (1).pdf": {
+        "name": "Harry Potter e a Pedra Filosofal by J.K. Rowling Rowling J.K. z",
+        "author": "lib.org (1)",
+        "download": "https://drive.google.com/file/d/1YWLfAa8xz0v3z_5a_bZlb0LTUZ3V88wi/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/-APiZGI1BiB20gmnOUBe0PNSWhxLgNXsF7ktLTeG4uY6FU8OMImHdRuUnztfQVtqPJLBJmrqjEgb3IA=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "Harry_Potter_e_a_Camara_Secreta_by_Rowling_J._K._z-lib.org.epub (1).pdf": {
+        "name": "Harry Potter e a Camara Secreta by Rowling J. K. z",
+        "author": "lib.org.epub (1)",
+        "download": "https://drive.google.com/file/d/1rXOhne9gGht_t06kHxGJMyD6oYG07syI/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/gKIdSjEyz459cT4Q1Op97xeqIOy1v0IWpWvVjgy0389SpHjKAyJIOZlQ8VBEJTxhSsNB5SiOtPsg48Q=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "01._KANT_Critica_da_Razao_Pura_Brasil.pdf": {
+        "name": "01. KANT Critica da Razao Pura Brasil",
+        "download": "https://drive.google.com/file/d/1C-CiWz281KT2S0Pv6HU2kOnRpOJh14gt/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/ReC5vqMTqDZH5gIWYakJgqfL-nujeUDSgfKJ7sKl277iolQOPlE7znWvu86zKS9tXcroy00vcLOho04=s220",
+        "parents": [
+            "1iJzCLEPgw_IQFpTSEx1J_Lc81fih8mID"
+        ]
+    },
+    "02._KANT_Critica_da_Razao_Pratica_Brasil.pdf": {
+        "name": "02. KANT Critica da Razao Pratica Brasil",
+        "download": "https://drive.google.com/file/d/1YSQQD5AkEiKe89s2a-RdE8BTvvO9PUY3/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/G-ya-sfwjsdcKGJUgwGE69LwAiD04tz5Cs5SagwQy-x-Ye3F7NQzxnnT0H2lDh1f2L0Gh5cc6TidkZQ=s220",
+        "parents": [
+            "1iJzCLEPgw_IQFpTSEx1J_Lc81fih8mID"
+        ]
+    },
+    "jung-c-o-desenvolvimento-da-personalidade.pdf": {
+        "name": "jung",
+        "author": "c",
+        "download": "https://drive.google.com/file/d/1UAHLU2-Gfj8XxC0mlhONk4YZSk-s91oe/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/vYhnkZC8xbCwJvdjMqDAxfkIAXKWcXZOUXqatUCzoa6ht52Q064axH_YbLNcxhpzMAVcABcY0C_Dtk4=s220",
+        "parents": [
+            "1HTW2O3dESWw9TWHDyI-Ve4m07i969LzC"
+        ]
+    },
+    "Que_Fazer_-_Vladimir_Lenin.pdf": {
+        "name": "Que Fazer ",
+        "author": " Vladimir Lenin",
+        "download": "https://drive.google.com/file/d/1sfv7Cc6k6x5kS-vZvYPm4Ucm4i78Kix6/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/53PUj4BZKWPfm9oXk4XhoiEIQDOcA5XdOIwURV9vfC5awFlqjC_kC4_KQaSl2VCOJDbLuTsg5mecTqQ=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Arendt_-Nos_Os_Refugiados.pdf": {
+        "name": "Arendt ",
+        "author": "Nos Os Refugiados",
+        "download": "https://drive.google.com/file/d/1q0WjUmOgVrLNCi9kjLCfCYkHhhGSd0cp/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/lyev03ePc1Ip-A4aQYfwDpU-RJaCD3DfOgvrij_cy9qian_ilRJmbD6ohuAjSKik9Zjx1ZixSqJI32M=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_IMATERIALISMO_DE_GEORGE_BERKELEY_-_O_REALISMO_NO_ESSE_E_PERCIPI.pdf": {
+        "name": "O IMATERIALISMO DE GEORGE BERKELEY ",
+        "author": " O REALISMO NO ESSE E PERCIPI",
+        "download": "https://drive.google.com/file/d/1y130fGsjM8SC1edalEuN0row92dnPUVC/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/IoP7kuMdxVo1Xk45Wf2zBrYbkxnx1MD264T0XnEvxtBgl81RpWNjgcD5hyVM2d0BmKQphOoWKcSkaOs=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "hua_hu_ching.pdf": {
+        "name": "hua hu ching",
+        "download": "https://drive.google.com/file/d/1yrIlDs8hvug-RJpt_D3YQrRLBmwe2-I5/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/Te9Dzbmrm6bBSYXypMUsoTWDz8YoKhNie_G6UHOtqaHcWUU5wUuP-2gQlBqTCqsZj1f8-CKPVG793HU=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "113-Texto_do_artigo-323-1-10-20080926.pdf": {
+        "name": "113",
+        "author": "Texto do artigo",
+        "download": "https://drive.google.com/file/d/195MVYKQxsriNIzhYnRMZm6tkQ_qIBejw/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/JgMgMz5OrUr4V35RT6Z9Jo7cKDEUyyHD_C6wHp-IQPCwCJHEqf-MCO_mViUubf8CTDipl22l5dA022Y=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Aristoteles_-_Obras_Completas_Vol._VII-II_-_Os_economicos.pdf": {
+        "name": "Aristoteles ",
+        "author": " Obras Completas Vol. VII",
+        "download": "https://drive.google.com/file/d/12VeGyKlSrSGbzn6_QdfH2tesvcpbztL9/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/EI9ycEhN-LSGn9nvOmEtv41kwV4zh8HWj5AIy_IN657mQLHkmY1ZW6UowqvBs88wjSymDlZK2WrWVTE=s220",
+        "parents": [
+            "1njr5u3Wz6P-VF9xzAe8HKZl8yByi1lSL"
+        ]
+    },
+    "Benito_Mussolini_-_Discursos_Da_Revolucao.pdf": {
+        "name": "Benito Mussolini ",
+        "author": " Discursos Da Revolucao",
+        "download": "https://drive.google.com/file/d/1FKDKSfrfyYURhHs9MBZp11q4FQKaoBnA/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/AyYtp6GgCX-yRd7uKG3Sb1mpwPjP_-zfi-9BpVCHCbm4Uz3AZrqgnFmLsMYBlicja3zT6KeUeuJ8Irc=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Todas_as_Aberturas_do_Xadrez.pdf": {
+        "name": "Todas as Aberturas do Xadrez",
+        "download": "https://drive.google.com/file/d/1Vj-Rs8nVsT3hHm3ohl5-96_Pmwp-Gk6p/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/bwH-lZNPzhT7dQzaxqvCHcERSvrqSjyrwTP5p2ln94pJCaG2jkAfX41vAcR9qT_jwW0WgdE8nsd-FG0=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_que_e_poema_e_poesia.pdf": {
+        "name": "O que e poema e poesia",
+        "download": "https://drive.google.com/file/d/1tm8yNiuGixhYzSbC_miRVD4OHY1SP3G7/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/pFkhFEHpIINHgsR8hkKm8sUK8JLMMfT-KDN5w3ygPXZXMfZvAuXHtMP502VkyiKWtH7KsM_5gQqsTv8=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_espaco_e_o_tempo_sao_continuos_ou_discretos.pdf": {
+        "name": "O espaco e o tempo sao continuos ou discretos",
+        "download": "https://drive.google.com/file/d/1TBesjz5qIApN2Ld-DSKWq0VhFj2DHJeM/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/Cv2ZmO9bpttaflpCSuYFoxBOXVx0cRmrRpieNMkg8zWl-OvBbftaSCSVoD2JiZ4TZH80QlFLPucKqyc=s220",
+        "parents": [
+            "1fYV1yACG7ACldeUZyaRU8Ep3OhWSGO6S"
+        ]
+    },
+    "filosofia_Conceitos.pdf": {
+        "name": "filosofia Conceitos",
+        "download": "https://drive.google.com/file/d/1Dk-XVwb31cAUhFQUoAbHY6Hwxtdc4SS3/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/7zGpwBEjTd8-scF2LG39lH2rLEfe3r0qML40TY35hvHqeAMAokdUTFkBnxuUG_dAq1e3-aQ-BTWixuo=s220",
+        "parents": [
+            "1iJzCLEPgw_IQFpTSEx1J_Lc81fih8mID"
+        ]
+    },
+    "manifesto-do-partido-comunista.pdf": {
+        "name": "manifesto",
+        "author": "do",
+        "download": "https://drive.google.com/file/d/1-DjSNdkTBBYkDWy5_QyIsOtiP38IOK0o/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/dTZIJ1OC5ltGEIUz_brvL7ec8PLsa8ivPzLsj1khxV4TFVgXSpDLf2yytdSDF_-bVyPMyU4ZnF_6BNw=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_espaco_e_o_tempo_sao_continuos_ou_discretos (1).pdf": {
+        "name": "O espaco e o tempo sao continuos ou discretos (1)",
+        "download": "https://drive.google.com/file/d/1B2iuAKajbtHkf__oSQ1Qecuy0iCqUuf9/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/Z9Rco5sQvscTdXzjPoQ4Lej0FvSPgKjqpZVI7zdCH7EmrKWjrHmH5mZa9UgiU3oQzAznOpBKftbDH6w=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Constituicao_dos_Atenienses_-_Xenofonte.pdf": {
+        "name": "A Constituicao dos Atenienses ",
+        "author": " Xenofonte",
+        "download": "https://drive.google.com/file/d/1tdx8hk_90DaCLvFUUsULd5UyYe5Q0Fpc/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/z51wOkHNKj0RwUKx3ClIXxMHtxnv5HDL4Y_aUqYH3Wvq7UBx2qaFRYtr0GM-3OkshAL3ZRh6wXfZd9Q=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Fenomenologia_e_Teoria_Geral_do_Conhecimento.pdf": {
+        "name": "Fenomenologia e Teoria Geral do Conhecimento",
+        "download": "https://drive.google.com/file/d/1KvVwjv4wneGgYfaYE6LX2LkTEOF65pj1/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/AnOOc5tLzDuJJcMaSZMmsigNjyK1HXjGE9mxj8efhH7X4d5sDVD75LLmNU5hfOgPHJ-FtrisjNtsFfA=s220",
+        "parents": [
+            "1fYV1yACG7ACldeUZyaRU8Ep3OhWSGO6S"
+        ]
+    },
+    "CHE_GUEVARA_E_O_MARXISMO_LATINO-AMERICANO_A_CRITICA_DA_ECONOMIA_POLITICA.pdf": {
+        "name": "CHE GUEVARA E O MARXISMO LATINO",
+        "author": "AMERICANO A CRITICA DA ECONOMIA POLITICA",
+        "download": "https://drive.google.com/file/d/18YPc8DSsdUZwCKQpD-twoLxLlW0YSQ_2/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/P5d983E7AvjTvL15LEBu0SpOhiH7sDgx3EwlZk4csycVm-ngsOirPbMkQ6kJm0TJv810INwq2xke-hk=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Fundamentacao_Teorica_em_Autismo_e_Neurodiversidade.pdf": {
+        "name": "Fundamentacao Teorica em Autismo e Neurodiversidade",
+        "download": "https://drive.google.com/file/d/19Z8SEWh8MaEqtHwprx5jhHwpHKl1sTMz/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/AOStXQOoRDLixNtRjpmI5rHVRVYhd4psziI6GlFGelLcrCh5ofDKaBarjykAcNMOIyYdpB5nXUb7h9I=s220",
+        "parents": [
+            "1-lc06JIVTVR3cBIE-Kxn0LViKt8mlhrE"
+        ]
+    },
+    "Jean-Jacques_Rousseau-Do-contrato-social.pdf": {
+        "name": "Jean",
+        "author": "Jacques Rousseau",
+        "download": "https://drive.google.com/file/d/1ytw4XzaPCTQtdwd-mxM_ctwE_fmlNoMg/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/AX0BSaxFkGcbCec2Vi90G2NTcVCr4OW6Cczyn6lZrtYBnE1KpwxACNEaMlG-ckaxnQuqtc209kjPSFc=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Arendt_-Nos_Os_Refugiados (1).pdf": {
+        "name": "Arendt ",
+        "author": "Nos Os Refugiados (1)",
+        "download": "https://drive.google.com/file/d/1InhvqoxiTCMlCV4-WAXTjCjX6TDg4Wa5/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/4YT0i-FSgfrAGH9pf2MTVdgqP5UtLvRb19UTadBOJuWaSxSbYXiG-DBau_c08xazW4rKhtgo0Llsc50=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_Pendulo_de_Foucault_Eco_Umberto_z-lib.org.pdf": {
+        "name": "O Pendulo de Foucault Eco Umberto z",
+        "author": "lib.org",
+        "download": "https://drive.google.com/file/d/17MNEMDchv1W5yVtCoUtnDc_kgQQcyqGy/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/WvAuoZdA1P61Gh3Ktiib_lBVXVlx6pvYzkeb7lBgHHvx6pprYCBcBYrxKSc-GhPTQ0ozp0aYs28kqg0=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "113-Texto_do_artigo-323-1-10-20080926 (1).pdf": {
+        "name": "113",
+        "author": "Texto do artigo",
+        "download": "https://drive.google.com/file/d/1myMzv2Gl7jEu_VravkaztzkcGvP1iI3d/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/BeJkwSquVHlbzEBTBrCphMuSoWDrVIlfHFE9XpZgiBUdXGGvKViWEWlB6XWLjWYZhfolOYJn7A9ZGSU=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "A_Mulher_no_Espelho_-_Uma_Reflexao_-_Virginia_Woolf.pdf": {
+        "name": "A Mulher no Espelho ",
+        "author": " Uma Reflexao ",
+        "download": "https://drive.google.com/file/d/11j7noONMQ4e79gI1nUCiAU5OiCr14cwz/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/EzSBd0kYcxcktkZ0yRQbEXjIndtScJTpYViGz_IQZ8U4vZKqbmwN9VMZqKXhagDuF89m5lNikUg8Qks=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Fundamentacao_Teorica_em_Psicologia_Analitica_Carl_Gustav_Jung.pdf": {
+        "name": "Fundamentacao Teorica em Psicologia Analitica Carl Gustav Jung",
+        "download": "https://drive.google.com/file/d/17a7WZ0IB8EanoTNc_rqmpqCZru1d-x0d/view?usp=drivesdk",
+        "image": "https://lh5.googleusercontent.com/R0m2NtGowsHgqr5KIFokADiYOUPBN12JAY9iasrl8rgjL9yUd-6Nzrbruopgu_xd7K9KDc8NrEDzdsQ=s220",
+        "parents": [
+            "1-lc06JIVTVR3cBIE-Kxn0LViKt8mlhrE"
+        ]
+    },
+    "manifesto-do-partido-comunista (1).pdf": {
+        "name": "manifesto",
+        "author": "do",
+        "download": "https://drive.google.com/file/d/1l73e8qU1xDNTK1goxWJmqm6pag8p1rpW/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/MIU75PKdTHXGsLkH9uv7jQCyfDOtoUHVO0OyxX0pIlu5oHmbbaoiNuMg38ratd3Ev3eTHlhRGjX653Q=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "O_Pavor__Joao_do_Rio.pdf": {
+        "name": "O Pavor  Joao do Rio",
+        "download": "https://drive.google.com/file/d/1boGYiL5DhUQ2OAsUx3PuwdhNvxD33j2r/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/ibVn8ZpqDdmsIC-dpnax2TNpvVa6XHwYL9v5QZPcfn6UVXF2TK1AFRZqnZ1tGzU7kVVk_7EQkEcm-Ow=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "o_corvo_poe_machado_de_assis.pdf": {
+        "name": "o corvo poe machado de assis",
+        "download": "https://drive.google.com/file/d/1xIBusOpl6Nm-Cyt7wyx474N50XXNj4hg/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/1FGhEPOV99PsH3m7BSW860LTFeZu5YruATuPdrSlnCqzqM00YRNYk3sH8LgVRpIIIAyiXlXQTSXnotQ=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "O_Pavor__Joao_do_Rio (1).pdf": {
+        "name": "O Pavor  Joao do Rio (1)",
+        "download": "https://drive.google.com/file/d/1O04AL3znZ2nlgFFFl-0XcSENRI-TAjFf/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/cXgEqBHNMUCsPjqHkveBQSCjFPjtHTwDnMdEHbTInrUkmtw5SOJlBEZ52qSU4e2Q76HKpOSD5iqd9k4=s220",
+        "parents": [
+            "1aBxtzjwibzSdyIlquracF9jGwuehQZYp"
+        ]
+    },
+    "O-Processo-Ensino-Aprendizagem.pdf": {
+        "name": "O",
+        "author": "Processo",
+        "download": "https://drive.google.com/file/d/1tySw6WySiMLqSX17gh5yIVCFF4StUNnA/view?usp=drivesdk",
+        "image": "https://lh3.googleusercontent.com/iPO_2IZgY17TMqC6w7HIcEzyIPR9EWaYYNf9HMjsXFIRQykIY1rv9PmQjm__Al6YfZKJ5ziTUjxUbpU=s220",
+        "parents": [
+            "1-lc06JIVTVR3cBIE-Kxn0LViKt8mlhrE"
+        ]
+    },
+    "O_Principe_-_Nicolau_Maquiavel_2.pdf": {
+        "name": "O Principe ",
+        "author": " Nicolau Maquiavel 2",
+        "download": "https://drive.google.com/file/d/1QCKs4wHaG6lIpKXxigP-SmqfEqjmGISG/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/4hQwEov1Ho0iRPPSWW-8rPauEdPY1IOQ-8JwNR0PzOx60qW7ZLFbYrz3Qy0yDT5JMwa_CxrmNSxK4Qg=s220",
+        "parents": [
+            "100ftd577rraXloP7SY46d8WFyj7evUAk"
+        ]
+    },
+    "o-despertar-de-uma-nova-consciencia.pdf": {
+        "name": "o",
+        "author": "despertar",
+        "download": "https://drive.google.com/file/d/1X-vjNZ_09j-w1sd51odVIHWeELETJftS/view?usp=drivesdk",
+        "image": "https://lh4.googleusercontent.com/khBqZbjTG6dO1S6RafGDATbLHNmmod-MuEYw3fcm3_OZ2LEMGMYeDyOIU8gEOdBNpP2K4F9pS2DunSE=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    },
+    "Moral_e_Dogma_by_Albert_Pike_z-lib.org.pdf": {
+        "name": "Moral e Dogma by Albert Pike z",
+        "author": "lib.org",
+        "download": "https://drive.google.com/file/d/1-wGkmM37HrO9GGPF-WbiEr__CZ-JLvnF/view?usp=drivesdk",
+        "image": "https://lh6.googleusercontent.com/YX8tbn5bBd0ikuWu_0Om-5Bi10l7hGRK0y2IOmkorjvGwXl9wxxunH-DdTnBOxfTYoXpnK_n8WU_j8k=s220",
+        "parents": [
+            "1yMq2K6KF8BOmAR0bXP7gpCTfnXRiVICY"
+        ]
+    }
 }

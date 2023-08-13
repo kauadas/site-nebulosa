@@ -7,7 +7,10 @@ const appDir = dirname(dirname(require.main.filename));
 
 const app = express();
 
+const drive = require("./drive")
 app.use(express.static("front"))
+
+drive.load()
 
 const options = {
     root: appDir
@@ -18,4 +21,3 @@ console.log('http://localhost:3000/')
 );
 
 
-app.on("request", (file,req) => console.log((file,req)))

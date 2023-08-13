@@ -22,11 +22,13 @@ function criarGradeDocumentos() {
         const nomeCell = newRow.insertCell();
         const authorCell = newRow.insertCell();
         const downloadCell = newRow.insertCell();
+        const imageCell = newRow.insertCell();
         
         console.log(documento);
         nomeCell.textContent = documento.name;
         authorCell.textContent = documento.autor;
         downloadCell.innerHTML = `<a href="${documento.download}">download</a>`;
+        imageCell.innerHTML = `<a href="${documento.image}">image</a>`;
     });
 }
 
