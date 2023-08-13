@@ -13,7 +13,7 @@ const fs = require('fs')
 
 const parents = {}
 
-const types = ["pdf","epub",undefined];
+const types = ["pdf","epub"];
 
 async function load() {
   let res = await drive.files.list({
