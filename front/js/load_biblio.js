@@ -26,7 +26,7 @@ function criarGradeDocumentos() {
         
         console.log(documento);
         nomeCell.textContent = documento.name;
-        authorCell.textContent = documento.autor;
+        authorCell.textContent = documento.author;
         downloadCell.innerHTML = `<a href="${documento.download}">download</a>`;
         imageCell.innerHTML = `<a href="${documento.image}">image</a>`;
     });

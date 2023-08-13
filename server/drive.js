@@ -13,17 +13,18 @@ const fs = require('fs')
 
 const parents = {}
 
-const types = ["pdf","epub"];
+const types = ["pdf","epub",undefined];
 
 async function load() {
   let res = await drive.files.list({
-    fields: '*',
-    orderBy: 'createdTime desc'
+    kind: "drive#fileList",
+    fields: '*'
   });
   
   let data = {}
   res.data.files.forEach(element => {
     console.log(element.fileExtension)
+    console.log(element.name);
     if (types.includes(element.fileExtension)){
       console.log(element.name);
       let no_lines = element.name.split("_").join(" ").replace("."+element.fileExtension,"")
