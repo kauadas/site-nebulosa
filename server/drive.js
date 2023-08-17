@@ -23,15 +23,10 @@ async function load() {
   
   let data = {}
   res.data.files.forEach(element => {
-    console.log(element.fileExtension)
-    console.log(element.name);
     if (types.includes(element.fileExtension)){
-      console.log(element.name);
-      let no_lines = element.name.split("_").join(" ").replace("."+element.fileExtension,"")
-      let [name, author] = no_lines.split("-");
+      let name = element.name.split("_").join(" ").replace("."+element.fileExtension,"")
       data[element.name] = {
         "name": name,
-        "author": author,
         "download": element.webViewLink,
         "image": element.thumbnailLink,
         "parents": element.parents
@@ -45,4 +40,4 @@ async function load() {
   fs.writeFileSync("front/json/db.json",JSON.stringify(data,null,4))
 }
 
-exports.load = load
+load()
